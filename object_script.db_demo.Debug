@@ -1,0 +1,17 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\serialthread.o
+./debug\qextserialbase.o
+./debug\qextserialenumerator.o
+./debug\qextserialport.o
+./debug\win_qextserialport.o
+./debug\config.o
+./debug\yocdialog.o
+./debug\moc_mainwindow.o
+./debug\moc_serialthread.o
+./debug\moc_qextserialbase.o
+./debug\moc_qextserialport.o
+./debug\moc_win_qextserialport.o
+./debug\moc_yocdialog.o
+);
