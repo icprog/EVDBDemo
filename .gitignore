@@ -5,3 +5,4 @@ moc_*
 *pro.user
 *.Debug
 *.Release
+*.exe
